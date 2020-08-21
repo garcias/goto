@@ -9,3 +9,4 @@
 ## Bookmarklets
 
 - https://garcias.github.io/goto/bookmarklet.html: template for serving bookmarklets
+- https://garcias.github.io/goto/rosters.html: bookmarklet to extract student enrollments from Private Pages rosters
