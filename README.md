@@ -9,4 +9,5 @@
 ## Bookmarklets
 
 - https://garcias.github.io/goto/bookmarklet.html: template for serving bookmarklets
-- https://garcias.github.io/goto/rosters.html: bookmarklet to extract student enrollments from Private Pages rosters
+- https://garcias.github.io/goto/rosterlift.html: RosterLift bookmarklet to extract student enrollments from Private Pages rosters
+- https://garcias.github.io/goto/facelift.html: FaceLift bookmarklet to create a layout of students' photos from Banner
